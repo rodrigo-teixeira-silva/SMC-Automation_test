@@ -10,7 +10,7 @@ Automação de uma pagina web utilizando Selenium e python
  **</>Codelink**.
  
 # Layout
-<img src="app/src/main/java/com/example/controledeprodutos/assets/Funcionalidades-tela-de_login.gif"/>
+<img src="assets/Aprovar solicitaçõesgif"/>
 
 # Tecnologias utilizadas
 
