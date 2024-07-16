@@ -23,12 +23,6 @@ time.sleep(3)
 browser.find_element(By.XPATH,'//*[@id="app"]/div/div/div/div/div/div/div[2]/main/div/div[3]/div[2]/label/div[2]/a/span[2]').click()
 time.sleep(3)
 
-
-dropdown_filial = Select(browser.find_element(By.XPATH, '//div[@class="dropdown-menu"]')) 
-dropdown_filial.select_by_value('01/01 - Instituto Kodigos')
-time.sleep(3)
-
-
 # input de texto
 browser.find_element(By.XPATH,'/html/body/div[1]/div/div/div/div/div/div/div[2]/main/div/div[4]/div[2]/label').send_keys('Rodrigo_teixeira')
 time.sleep(3)
